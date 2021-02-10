@@ -1,6 +1,6 @@
 # Medi_Knowledge_Graph
 
-# Contributors : Pratheek Balaji, Sharad Narayan Sharma 
+Contributors : Pratheek Balaji, Sharad Narayan Sharma 
 
 Knowledge Graph which serves as a one stop shop containing information pertaining to diseases, medicines and health specialists (doctors) related to the specific disease in a given area.
 
