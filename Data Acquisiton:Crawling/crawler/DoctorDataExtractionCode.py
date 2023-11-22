@@ -70,6 +70,7 @@ class AllSpider(scrapy.Spider):
                'Doctor_Score' : score
            }
         
+
         yield scraped_info
     
    
